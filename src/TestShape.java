@@ -9,5 +9,6 @@ public class TestShape {
         System.out.println(b + " area=" + b.getArea());
         System.out.println(c + " area=" + c.getArea());
         System.out.println(d + " area=" + d.getArea());
+        
     }
 }
